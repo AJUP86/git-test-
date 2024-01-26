@@ -1,3 +1,3 @@
 const myName = 'Alejandro';
 const greet = 'hello';
-console.log(greet + '  ' + myName);
+console.log(`${greet} ${myName}`);
